@@ -1,24 +1,18 @@
 # Welcome :coffee:  :japanese_castle:
 
-![alt text](https://pbs.twimg.com/profile_banners/3938909297/1522338551/1500x500 "Office")
-
 
 ### Bio
 Dev :fr:
 
-27 years old
+33 years old
 
 
 ### Projects
-[Starteurkit](https://github.com/vincenthirtz/starteurkit) - [Online demo](https://starteurkit.netlify.app/)
+[Pulse JS](https://pulse-js.fr/) 
 
-[Site Denis Godefroy](https://www.denisgodefroy.fr/) 
-
-[Mon site](https://vincenthirtz.fr/) 
 
 
 ### Social
-[Twitter](https://twitter.com/alukaard76) 
 
 [Linkedin](https://www.linkedin.com/in/hirtzvincent/)
 
